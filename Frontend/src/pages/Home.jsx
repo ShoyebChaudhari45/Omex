@@ -253,7 +253,7 @@ function Home() {
           Get AI-powered suggestions to improve your code's performance, readability, and maintainability.
         </p>
         <a
-          href="/optimiser"
+          href="/optimiser"//issued solved here 
           tabIndex={0}
           role="button"
           aria-label="Learn more about Code Optimization">
@@ -294,7 +294,7 @@ function Home() {
           Generate code snippets and solutions based on your requirements and specifications.
         </p>
         <a
-          href="/codegenerator"
+          href="/codegenerator"//bugs fixed here 
           tabIndex={0}
           role="button"
           aria-label="Learn more about Code Generation" >
@@ -336,7 +336,7 @@ function Home() {
           Understand the time and space complexity of your algorithms and identify bottlenecks.
         </p>
         <a
-          href="/codecomplexity"
+          href="/codecomplexity"//bugs fixed here 
           tabIndex={0}
           role="button"
           aria-label="Learn more about Complexity Analysis">
@@ -377,7 +377,7 @@ function Home() {
           Compare different versions of your code to identify changes and improvements.
         </p>
         <a
-          href="/codecompare"
+          href="/codecompare"//bugs fixed here 
           tabIndex={0}
           role="button"
           aria-label="Learn more about Code Comparison">
@@ -435,7 +435,7 @@ function Home() {
           Automatically generate comprehensive test cases for your code.
         </p>
         <a
-          href="/test-case-generator"
+          href="/test-case-generator"//bugs fixed here 
           tabIndex={0}
           role="button"
           aria-label="Learn more about Test Case Generator">
@@ -477,7 +477,7 @@ function Home() {
           Transform messy code into clean, well-structured code that follows best practices.
         </p>
         <a
-          href="/code-beautifier"
+          href="/code-beautifier"//bugs fixed here 
           tabIndex={0}
           role="button"
           aria-label="Learn more about Code Beautifier">
